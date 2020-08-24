@@ -1,0 +1,13 @@
+C:\Users\merio\Desktop\programas\Maxima\bin\Debug\netcoreapp3.1\Maxima.exe
+C:\Users\merio\Desktop\programas\Maxima\bin\Debug\netcoreapp3.1\Maxima.deps.json
+C:\Users\merio\Desktop\programas\Maxima\bin\Debug\netcoreapp3.1\Maxima.runtimeconfig.json
+C:\Users\merio\Desktop\programas\Maxima\bin\Debug\netcoreapp3.1\Maxima.runtimeconfig.dev.json
+C:\Users\merio\Desktop\programas\Maxima\bin\Debug\netcoreapp3.1\Maxima.dll
+C:\Users\merio\Desktop\programas\Maxima\bin\Debug\netcoreapp3.1\Maxima.pdb
+C:\Users\merio\Desktop\programas\Maxima\obj\Debug\netcoreapp3.1\Maxima.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\programas\Maxima\obj\Debug\netcoreapp3.1\Maxima.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\programas\Maxima\obj\Debug\netcoreapp3.1\Maxima.AssemblyInfo.cs
+C:\Users\merio\Desktop\programas\Maxima\obj\Debug\netcoreapp3.1\Maxima.csproj.CoreCompileInputs.cache
+C:\Users\merio\Desktop\programas\Maxima\obj\Debug\netcoreapp3.1\Maxima.dll
+C:\Users\merio\Desktop\programas\Maxima\obj\Debug\netcoreapp3.1\Maxima.pdb
+C:\Users\merio\Desktop\programas\Maxima\obj\Debug\netcoreapp3.1\Maxima.genruntimeconfig.cache

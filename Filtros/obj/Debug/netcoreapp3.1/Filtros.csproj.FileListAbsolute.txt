@@ -1,0 +1,13 @@
+C:\Users\merio\Desktop\programas\Filtros\bin\Debug\netcoreapp3.1\Filtros.exe
+C:\Users\merio\Desktop\programas\Filtros\bin\Debug\netcoreapp3.1\Filtros.deps.json
+C:\Users\merio\Desktop\programas\Filtros\bin\Debug\netcoreapp3.1\Filtros.runtimeconfig.json
+C:\Users\merio\Desktop\programas\Filtros\bin\Debug\netcoreapp3.1\Filtros.runtimeconfig.dev.json
+C:\Users\merio\Desktop\programas\Filtros\bin\Debug\netcoreapp3.1\Filtros.dll
+C:\Users\merio\Desktop\programas\Filtros\bin\Debug\netcoreapp3.1\Filtros.pdb
+C:\Users\merio\Desktop\programas\Filtros\obj\Debug\netcoreapp3.1\Filtros.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\programas\Filtros\obj\Debug\netcoreapp3.1\Filtros.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\programas\Filtros\obj\Debug\netcoreapp3.1\Filtros.AssemblyInfo.cs
+C:\Users\merio\Desktop\programas\Filtros\obj\Debug\netcoreapp3.1\Filtros.csproj.CoreCompileInputs.cache
+C:\Users\merio\Desktop\programas\Filtros\obj\Debug\netcoreapp3.1\Filtros.dll
+C:\Users\merio\Desktop\programas\Filtros\obj\Debug\netcoreapp3.1\Filtros.pdb
+C:\Users\merio\Desktop\programas\Filtros\obj\Debug\netcoreapp3.1\Filtros.genruntimeconfig.cache

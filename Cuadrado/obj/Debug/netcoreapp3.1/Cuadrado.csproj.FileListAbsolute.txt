@@ -1,0 +1,13 @@
+C:\Users\merio\Desktop\programas\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\programas\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\programas\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.AssemblyInfo.cs
+C:\Users\merio\Desktop\programas\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\merio\Desktop\programas\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.exe
+C:\Users\merio\Desktop\programas\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.deps.json
+C:\Users\merio\Desktop\programas\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.runtimeconfig.json
+C:\Users\merio\Desktop\programas\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.runtimeconfig.dev.json
+C:\Users\merio\Desktop\programas\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.dll
+C:\Users\merio\Desktop\programas\Cuadrado\bin\Debug\netcoreapp3.1\Cuadrado.pdb
+C:\Users\merio\Desktop\programas\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.dll
+C:\Users\merio\Desktop\programas\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.pdb
+C:\Users\merio\Desktop\programas\Cuadrado\obj\Debug\netcoreapp3.1\Cuadrado.genruntimeconfig.cache
